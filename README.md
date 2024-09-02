@@ -1,4 +1,4 @@
-# Sign_Language_System
+# Sign_Language_Detection_System
 AI-Powered Sign Language Detection System | Python, Tensorflow, Open CV | 
 
 • Designed and developed a cutting-edge sign language detection system leveraging AI, machine learning, and computer 
