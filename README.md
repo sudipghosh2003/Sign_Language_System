@@ -8,4 +8,4 @@ AI-Powered Sign Language Detection System | Python, Tensorflow, Open CV |
   and movement patterns with 95% accuracy. 
   
 • Created an intuitive user interface enabling users to input sign language gestures and receive instant translations, 
-  promoting inclusivity and accessibility. 
+  promoting inclusivity and accessibility.
